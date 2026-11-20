@@ -3,7 +3,7 @@
 ## Overview
 This project applies data mining techniques to identify meaningful customer segments using the **Mall Customers Dataset** from Kaggle. 
 
-The objective is to compare **K-Means Clustering** and **Hierarchical Clustering to determine how effectively each algorithm groups customers based on their characteristics.
+The objective is to compare **K-Means Clustering** and **Hierarchical Clustering** to determine how effectively each algorithm groups customers based on their characteristics.
 
 The project was completed as part of the **DSC4740 - Data Mining** course. 
 ---
